@@ -1,0 +1,20 @@
+{
+  "content" : [ {
+    "personId" : "1",
+    "firstName" : "Pavel",
+    "lastName" : "Seda",
+    "address" : {
+      "street" : "XYZ123",
+      "zipCode" : "91200",
+      "houseNumber" : "12",
+      "city" : "Brno",
+      "country" : "Czech Republic"
+    },
+    "group" : {
+      "name" : "legends",
+      "roles" : [ {
+        "role" : "CHIEF"
+      } ]
+    }
+  } ]
+}
